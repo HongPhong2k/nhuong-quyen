@@ -1,3 +1,7 @@
+#section_508353063 .section-bg.bg-loaded {
+    /* background-image: url(image-update/bg-header.jpg); */
+    background-color: #fa8eb8 !important;
+}
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
