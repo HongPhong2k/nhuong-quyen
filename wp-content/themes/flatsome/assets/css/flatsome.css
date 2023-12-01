@@ -1,6 +1,5 @@
-/* #section_508353063 .section-bg.bg-loaded {
-   
-    background-color: #fa8eb8 !important;
+/* #btnform :hover{
+    background-color: red !important;
 } */
 html {
     font-family: sans-serif;
@@ -2907,6 +2906,12 @@ li.hide-title>a {
 }
 
 @media screen and (max-width: 549px) {
+    #toast-modal-success{
+        position: fixed;
+        left: 10px !important;
+        right: 10px !important;
+        transform: translateY(-50%) !important;
+        }
     .box-vertical .box-image {
         width: 100% !important
     }
